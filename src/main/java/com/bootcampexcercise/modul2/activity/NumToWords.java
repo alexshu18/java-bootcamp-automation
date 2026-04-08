@@ -2,14 +2,14 @@ package com.bootcampexcercise.modul2.activity;
 //Oleksandr Shushyn
 public class NumToWords {
     public static void main() {
-        numToWordsSwitch(10);
-        numToWordsSwitch(11);
+        numToWordsSwitch(10);//calling true method
+        numToWordsSwitch(11);//calling false method
         numToWordsSwitch(4);
         numToWordsSwitch(9);
     }
 
     public static void numToWordsSwitch(int i){
-        switch(i) {
+        switch(i) { //create the switch cases to transfer int to string
             case 1:
                 System.out.println("one");
                 break;
@@ -41,7 +41,7 @@ public class NumToWords {
                 System.out.println("ten");
                 break;
             default:
-                System.out.println("Not in range 1-10");
+                System.out.println("Not in range 1-10"); // default branch if the number is not in the range
         }
     }
 }
