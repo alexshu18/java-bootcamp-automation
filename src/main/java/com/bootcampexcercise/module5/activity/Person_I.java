@@ -1,5 +1,5 @@
-package com.bootcampexcercise.module5;
-
+package com.bootcampexcercise.module5.activity;
+//Oleksandr Shushyn
 public class Person_I {
     private String name;
     private int age;

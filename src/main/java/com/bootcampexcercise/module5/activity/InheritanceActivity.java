@@ -1,5 +1,5 @@
-package com.bootcampexcercise.module5;
-
+package com.bootcampexcercise.module5.activity;
+//Oleksandr Shushyn
 public class InheritanceActivity {
     public static void main(String[] args){
         Person_I myPerson = new Person_I();

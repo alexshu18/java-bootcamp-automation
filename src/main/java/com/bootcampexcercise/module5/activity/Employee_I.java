@@ -1,5 +1,5 @@
-package com.bootcampexcercise.module5;
-
+package com.bootcampexcercise.module5.activity;
+//Oleksandr Shushyn
 public class Employee_I extends Person_I{
     private double salary;
     private String title;

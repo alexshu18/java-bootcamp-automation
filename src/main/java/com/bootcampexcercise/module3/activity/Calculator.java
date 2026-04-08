@@ -1,5 +1,5 @@
 package com.bootcampexcercise.module3.activity;
-
+//Oleksandr Shushyn
 public class Calculator {
     public static final String CALC_TYPE_BASIC = "basic";
 

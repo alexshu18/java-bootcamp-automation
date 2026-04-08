@@ -1,5 +1,5 @@
 package com.bootcampexcercise.module3.activity;
-
+//Oleksandr Shushyn
 public class Car {
     private String brand;
     private String color;
